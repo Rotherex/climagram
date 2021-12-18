@@ -8,12 +8,7 @@ import { getStorage } from "firebase/storage"
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyB7GmUzwhzJqGROzcyU27-UeuKNdJFvN_o",
-  authDomain: "climagram-15ca2.firebaseapp.com",
-  projectId: "climagram-15ca2",
-  storageBucket: "climagram-15ca2.appspot.com",
-  messagingSenderId: "318495089499",
-  appId: "1:318495089499:web:9d9c0a923149c6cce5307e"
+  // no firebase data
 };
 
 // Initialize Firebase
